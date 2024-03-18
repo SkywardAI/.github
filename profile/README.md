@@ -2,7 +2,7 @@
 
 ![SkywardAI](https://avatars.githubusercontent.com/u/133020598?s=400&u=bdf0fc0d741e20b15ee565fd57f4891d85fb5c8c&v=4)
 
-Welcome to the go-Skynet community project, an ambitious initiative spearheaded by the AI enthusiasts of the go-Skynet community, inspired by Mulder's vision. Our mission is to leverage advanced AI techniques to revolutionize the way we approach programming algorithms, making this domain more accessible, efficient, and integrated with cutting-edge AI capabilities.
+Welcome to Skyward.AI, an ambitious initiative spearheaded by the AI enthusiasts of the go-Skynet community, inspired by Mulder's vision. Our mission is to leverage advanced AI techniques to revolutionize the way we approach programming algorithms, making this domain more accessible, efficient, and integrated with cutting-edge AI capabilities.
 
 ## 🌟 What We Do
 
