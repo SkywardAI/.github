@@ -1,3 +1,3 @@
 # .github
 
-Our vision and target
+Community Information
