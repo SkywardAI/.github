@@ -7,6 +7,8 @@ SkywardAI is an open-source community dedicated to advancing the field of Retrie
 
 WE are decicated to providing an Open-Source Retrieval-Augmented Generation (RAG) Framework that empowers you build, customize, and deploy RAG solutions for your specific needs.
 
+![](https://cdn.masto.host/sigmoidsocial/media_attachments/files/112/160/831/808/267/625/original/cb5c3149ed9f193d.png)
+
 ### A robust and modular RAG framework
 
 Our open-source framework provides the building blocks you need to develop and implement RAG models for live chat, including modules for data retrieval, knowledge base integration, response generation, and conversation management.
