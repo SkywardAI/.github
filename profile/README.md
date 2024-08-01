@@ -1,6 +1,8 @@
 # Welcome to SkywardAI 🚀
 
-SkywardAI is an open-source community dedicated to advancing the field of Retrieval-Augmented Generation (RAG) technology. It is created by a group of passionate students from the RMIT University, Melbourne, Australia. Our goal is to provide the free, real open-source artificial intelligence solutions that enable anyone to democratize and run language models on consumer-grade hardware. And also support cloud-native deployment. The community is inspired by an open-source OpenAI alternative API  [LocalAI](https://github.com/mudler/LocalAI).
+SkywardAI is an open-source community dedicated to advancing the field of GenAI technology. It is created by a group of passionate students from the RMIT University Melbourne. Our goal is to provide the free, real open-source artificial intelligence solutions that enable anyone to democratize and run language models on consumer-grade hardware. And also support cloud-native deployment. 
+
+**The community is inspired by an open-source OpenAI alternative API  [LocalAI](https://github.com/mudler/LocalAI).**
 
 
 # 🌟 What We Do
