@@ -10,7 +10,7 @@ We are decicated to providing an open-source ecosystem that empowers you build, 
 <img width="1455" alt="Screenshot 2024-08-01 at 10 23 19 PM" src="https://github.com/user-attachments/assets/bc4ead07-303c-42e6-9aaa-c8f8a66fafdb">
 
 
-# Our Mission
+# 👩‍🌾 Our Mission
 
 **Our mission is to make modern AI techniques accessible and beneficial for everyone.**
 
