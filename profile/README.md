@@ -5,9 +5,9 @@ SkywardAI is an open-source community dedicated to advancing the field of Retrie
 
 # 🌟 What We Do
 
-We are decicated to providing an Open-Source ecosystem that empowers you build, customize, and deploy your lagnaueg model as solution for your specific needs. Below is our scope:
+We are decicated to providing an open-source ecosystem that empowers you build, customize, and deploy your lagnaueg model as solution for your specific needs. Below is our scope:
 
-![](https://cdn.masto.host/sigmoidsocial/media_attachments/files/112/160/831/808/267/625/original/cb5c3149ed9f193d.png)
+<img width="1455" alt="Screenshot 2024-08-01 at 10 23 19 PM" src="https://github.com/user-attachments/assets/bc4ead07-303c-42e6-9aaa-c8f8a66fafdb">
 
 
 # Our Mission
