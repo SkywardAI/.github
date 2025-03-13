@@ -19,10 +19,10 @@ Our AI open-source community aims to develop specialized, high-performing models
 We aim to deliver:
 
 - Highly efficient, specialized AI models optimized for specific tasks
-- Smooth streaming inference on CPUs with open-source multimodal models under 10B parameters
-- Inference with RAG mode for enhanced retrieval-augmented generation
+- Local trusworthy AI solution
+- Local trusworthy RAG framework
 - A simple trainer for customizing neural net training
-- One-command deployment for seamless integration
+- Serverless integration
 
 
 # 🚀 Our Vision
