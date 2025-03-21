@@ -1,6 +1,6 @@
 # Welcome to SkywardAI 🚀
 
-SkywardAI is an open-source community dedicated to developing efficient and specialized AI models. Founded by [Bowen](https://github.com/Aisuko) from RMIT University Melbourne, our mission is to create high-performing AI solutions that prioritize accessibility, efficiency, and sustainability. We empower users to run advanced AI models on consumer-grade hardware while supporting cloud-native deployment.
+SkywardAI, an open-source community founded by [Bowen](https://github.com/Aisuko) during his postgraduate studies at RMIT, focuses on developing efficient and specialized AI models. The mission targets creating high-performing AI solutions that prioritize accessibility, efficiency, and sustainability, empowering users to run advanced AI models on consumer-grade hardware while supporting cloud-native deployment.
 
 **The community is inspired by an open-source OpenAI alternative API  [LocalAI](https://github.com/mudler/LocalAI).**
 
