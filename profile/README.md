@@ -9,7 +9,8 @@ SkywardAI, an open-source community founded by [Bowen](https://github.com/Aisuko
 
 Our AI open-source community aims to develop specialized, high-performing models that are not only smaller but also optimized for specific tasks. Unlike massive LLMs, these models prioritize efficiency and accessibility while maintaining top-tier performance. By minimizing data requirements and reducing computational demands, we can create a more sustainable AI ecosystem—maximizing intelligence per watt. This approach ensures that AI remains both powerful and practical, making advanced technology more accessible for widespread adoption.
 
-<img width="1455" alt="Screenshot 2024-08-01 at 10 27 05 PM" src="https://github.com/user-attachments/assets/4cb00005-0b3d-4d82-99cf-7876aa8e9a7d">
+![ChatGPT Image Apr 10, 2025 at 12_55_37 PM-2](https://github.com/user-attachments/assets/dcce89d7-99de-4b17-9eb3-efd1c31f32d1)
+
 
 
 # 👩‍🌾 Our Mission
