@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SkywardAI Platform - AI Chatbots + HA k3s GPU Edge Cloud + Secure Mesh</title>
+    <meta name="description" content="Unified platform combining AI chatbots, high-availability k3s GPU edge cloud, and secure mesh networking on your own infrastructure." />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js" defer></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#00d4aa',
+                        'primary-hover': '#00b894'
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-white dark:bg-gray-900 text-gray-900 dark:text-white transition-colors duration-300">
+    <!-- Header -->
+    <header class="fixed top-0 w-full bg-white/80 dark:bg-gray-900/80 backdrop-blur-lg border-b border-gray-200 dark:border-gray-800 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <div class="flex items-center">
+                    <div class="text-2xl font-bold bg-gradient-to-r from-primary to-green-400 bg-clip-text text-transparent">
+                        SkywardAI
+                    </div>
+                </div>
+                <nav class="hidden md:flex space-x-8">
+                    <a href="#product" class="text-gray-700 dark:text-gray-300 hover:text-primary transition-colors">Product</a>
+                    <a href="#chat" class="text-gray-700 dark:text-gray-300 hover:text-primary transition-colors">AI Chatbot</a>
+                    <a href="#edge" class="text-gray-700 dark:text-gray-300 hover:text-primary transition-colors">Edge Cloud</a>
+                    <a href="#mesh" class="text-gray-700 dark:text-gray-300 hover:text-primary transition-colors">Mesh</a>
+                </nav>
+                <div class="flex items-center space-x-4">
+                    <button id="themeToggle" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors">
+                        <i data-lucide="sun" class="w-5 h-5 hidden dark:block"></i>
+                        <i data-lucide="moon" class="w-5 h-5 block dark:hidden"></i>
+                    </button>
+                    <a href="https://github.com/skywardai" class="px-4 py-2 text-gray-700 dark:text-gray-300 hover:text-primary transition-colors">GitHub</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="pt-24 pb-16 bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-800 relative overflow-hidden">
+        <div class="absolute inset-0 bg-gradient-to-r from-primary/10 to-green-400/10"></div>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
+            <div class="text-center">
+                <h1 class="text-4xl md:text-6xl font-bold mb-6">
+                    <span class="bg-gradient-to-r from-primary to-green-400 bg-clip-text text-transparent">AI Chatbots + HA k3s GPU Edge Cloud</span>
+                    <br>
+                    <span class="text-gray-900 dark:text-white">On Your Own Infrastructure</span>
+                </h1>
+                <p class="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">SkywardAI unifies intelligent chatbots, high-availability k3s GPU clusters, and secure mesh networking. Deploy, scale, and manage AI workloads with complete data sovereignty.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12 mt-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-gray-400">
+            <p>&copy; 2024 SkywardAI. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        window.addEventListener('DOMContentLoaded', () => { if (window.lucide) lucide.createIcons(); });
+        const themeToggle = document.getElementById('themeToggle');
+        const html = document.documentElement;
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        if (savedTheme === 'light') html.classList.remove('dark'); else html.classList.add('dark');
+        if (themeToggle) {
+            themeToggle.addEventListener('click', () => {
+                if (html.classList.contains('dark')) {
+                    html.classList.remove('dark');
+                    localStorage.setItem('theme', 'light');
+                } else {
+                    html.classList.add('dark');
+                    localStorage.setItem('theme', 'dark');
+                }
+                if (window.lucide) lucide.createIcons();
+            });
+        }
+    </script>
+</body>
+</html>
